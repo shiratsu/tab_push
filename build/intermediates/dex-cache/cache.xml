@@ -2,20 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/Users/shiratsu/Documents/TabSample2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Users/shiratsu/Documents/TabSample2/app/build/intermediates/pre-dexed/debug/classes-e1ef17060afefe488f978209a8ea012a243aef50.jar" />
-    </item>
-    <item
-        jar="/Users/shiratsu/Documents/TabSample2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/shiratsu/Documents/TabSample2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-cb8ecb92ad901b90cce59d8db1b280b4c8e19c63.jar" />
-    </item>
-    <item
         jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -35,6 +21,27 @@
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
         <dex dex="/Users/shiratsu/Documents/TabSample2/app/build/intermediates/pre-dexed/debug/classes-b2f100183257f3cce07c9d7e887dbeb5c2aa0deb.jar" />
+    </item>
+    <item
+        jar="/Users/shiratsu/Documents/TabSample2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/shiratsu/Documents/TabSample2/app/build/intermediates/pre-dexed/debug/classes-be146f1fb8b5c99f2fa3d5422f779410ce766c5f.jar" />
+    </item>
+    <item
+        jar="/Users/shiratsu/Documents/TabSample2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/shiratsu/Documents/TabSample2/app/build/intermediates/pre-dexed/debug/classes-e1ef17060afefe488f978209a8ea012a243aef50.jar" />
+    </item>
+    <item
+        jar="/Users/shiratsu/Documents/TabSample2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/shiratsu/Documents/TabSample2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-cb8ecb92ad901b90cce59d8db1b280b4c8e19c63.jar" />
     </item>
 
 </items>
