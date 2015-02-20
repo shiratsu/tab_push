@@ -9,8 +9,11 @@ buildscript {
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
+        // The Fabric Gradle plugin uses an open ended version to
+        // react quickly to Android tooling updates
     }
 }
+
 
 allprojects {
     repositories {

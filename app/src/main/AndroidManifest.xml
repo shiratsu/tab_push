@@ -7,6 +7,8 @@
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
 
     <permission
         android:name="shiratsu.ch.co.jp.gcm.permission.C2D_MESSAGE"
@@ -34,6 +36,7 @@
             android:exported="false" />
 
         <activity
+            android:launchMode="singleTop"
             android:name="shiratsu.ch.co.jp.gcm.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
@@ -42,6 +45,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <meta-data
+            android:name="com.crashlytics.ApiKey"
+            android:value="07e9dab2e311c6f10370cd83aa01c97b4f8ec282" />
     </application>
 
 </manifest>
